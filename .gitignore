@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.db
+
+# Build
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+Debug/
+Release/
+*.exe
+*.dll
+*.pdb
