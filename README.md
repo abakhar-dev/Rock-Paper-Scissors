@@ -10,10 +10,10 @@ You can play against the computer, and the game will display the winner after ea
 - Displays the winner after each round
 
 ## Files in the Project
-- `Project1_Solution.cpp` → Main C++ code for the game
-- `Project1_Solution.vcxproj` → Visual Studio project file
-- `Project1_Solution.vcxproj.filters` → Filters for organizing project files in Visual Studio
-- `Project1_Solution.sln` → Visual Studio solution file
+- `main.cpp` → Main C++ code for the game
+- `Rock-Paper-Scissors.vcxproj` → Visual Studio project file
+- `Rock-Paper-Scissors.filters` → Filters for organizing project files in Visual Studio
+- `Rock-Paper-Scissors.sln` → Visual Studio solution file
 
 ## How to Run
 1. Open the project in **Visual Studio**.
